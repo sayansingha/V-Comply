@@ -21,3 +21,8 @@ Yearly:
   
 One time(Once):
   the user can set an alert on a particular date at a particular time in a particular year, and it will be executed only ONCE!
+
+
+How to run:
+  The react app is in a folder called client, so when you are in that folder, just running npm start will do it.
+  And the node app which is named index.js can be run by just typing into the command node index.js.
